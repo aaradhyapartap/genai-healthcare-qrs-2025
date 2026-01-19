@@ -63,7 +63,7 @@ with robust safeguards, transparency mechanisms, and interdisciplinary governanc
 ## ⚠️ Copyright & License
 This repository contains the **author’s version** of the paper.  
 The final published version is copyrighted by **IEEE** and is available through IEEE Xplore.
-
+https://ieeexplore.ieee.org/document/11216498
 © 2025 IEEE. Author version shared for academic and non-commercial use.
 
 ---
